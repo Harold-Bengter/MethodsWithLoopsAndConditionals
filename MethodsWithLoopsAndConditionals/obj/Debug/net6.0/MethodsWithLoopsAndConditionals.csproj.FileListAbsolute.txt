@@ -1,0 +1,15 @@
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.exe
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.deps.json
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.runtimeconfig.json
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.AssemblyInfo.cs
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\refint\MethodsWithLoopsAndConditionals.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.genruntimeconfig.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\ref\MethodsWithLoopsAndConditionals.dll
